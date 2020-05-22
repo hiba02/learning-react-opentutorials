@@ -2,7 +2,6 @@ import React, { Component } from "react";
 
 class Control extends Component {
   render() {
-    // console.log("Subject props", this.props);
     return (
       <ul>
         <li>
